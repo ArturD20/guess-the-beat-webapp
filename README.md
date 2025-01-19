@@ -23,6 +23,8 @@
   - **Node.js** with **Express**: Simple backend for handling Spotify OAuth2 authorization.  
 - **API Integration 🔌**:  
   - **Spotify API**: Used for retrieving song details, album covers, and playlist data.
+- **AWS**:
+  - **DynamoDB**: Used for creating simple ranking.  
 
 ---
 
@@ -31,7 +33,8 @@
 - Developing a user-centered application with a focus on **UX design** and **interactive gameplay**.  
 - Building and designing a modern and visually appealing frontend.  
 - Understanding **OAuth2 authorization** for secure access to user data from the Spotify API.  
-- How to work with a large-scale API, integrating multiple functionalities to create a seamless user experience.  
+- How to work with a large-scale API, integrating multiple functionalities to create a seamless user experience.
+- How to implement AWS DynamoDB in a code. 
 
 ---
 
